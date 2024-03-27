@@ -6,7 +6,7 @@
 
 - 💻 I’m currently learning **TensorFlow and DSA in Java**
 
-- 📄 [My Resume](https://drive.google.com/file/d/16lqHb2M0PHNvgCecB0mlZUiXj8_K3dn8/view?usp=sharing) (Latest updated on March 3)
+- 📄 [My Resume](https://drive.google.com/file/d/1-0wpZ2Y-A52GtgO_OJhloP5-zOwaJ-Vh/view?usp=sharing) (Latest updated on March 3)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
