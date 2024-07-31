@@ -4,7 +4,7 @@
 
 - 🌱 I’m interested about **ML/DL and backend web development**
 
-- 💻 I’m currently learning **about NLP and LLMs along with DSA in Java**
+- 💻 I’m currently exploring **NLP and LLMs along with DSA in Java**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1iuGkgq3gxp0r-7T5fJSYYPgRvyBTDHd_/view?usp=sharing) (Latest updated on June 15)
 
