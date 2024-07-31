@@ -6,7 +6,7 @@
 
 - 💻 I’m currently exploring **NLP and LLMs along with DSA in Java**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1iuGkgq3gxp0r-7T5fJSYYPgRvyBTDHd_/view?usp=sharing) (Latest updated on June 15)
+- 📄 [My Resume](https://drive.google.com/file/d/1JJjiaGguo91smtTB_fd_kUkSSiHJ9KvN/view?usp=sharing) (Latest updated on July 16)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
