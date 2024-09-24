@@ -6,7 +6,7 @@
 
 - 💻 I’m currently exploring **LangChain along with DSA in Java**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1edUt6HC23yVfylVzOV3_bQcugHfujj6h/view?usp=sharing) (Latest updated on September 23)
+- 📄 [My Resume](https://drive.google.com/file/d/12pDIiLKlgJ5ZoNsPJpsa1SzchWnfColM/view?usp=sharing) (Latest updated on September 23)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
