@@ -4,7 +4,7 @@
 
 - 🌱 I’m interested about **Machine Learning, Deep Learning and Generative AI**
 
-- 💻 I’m currently exploring **LangChain along with DSA in Java**
+- 💻 I’m currently exploring **LangGraph along with DSA in Java**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1XSyDknwkiOD3JInqIK3M3xtK-juir7nm/view?usp=sharing) (Latest updated on November 6)
 
@@ -21,11 +21,6 @@
 <a href="https://ai.meta.com/tools/faiss/" target="_blank" rel="noreferrer"> <img src="https://engineering.fb.com/wp-content/uploads/2017/03/faiss_logo.png" alt="faiss" width="45" height="40"/> </a>
 <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Cassandra.png" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1676450951874453505/y5_T5OWH_400x400.png" alt="pinecone" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-<br>
-<h3 align="left">Most used languages:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan457&layout=compact&langs_count=6&theme=radical)
 
 
 
