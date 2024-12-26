@@ -4,7 +4,7 @@
 
 - 🌱 I’m interested about **Machine Learning, Deep Learning and Generative AI**
 
-- 💻 I’m currently exploring **LangGraph along with DSA in Java**
+- 💻 I’m currently exploring **MLOps along with DSA in Java**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1eIl3xmL1x2ZKzsPdwH6K42tmgSfrNRn8/view?usp=sharing) (Latest updated on December 3)
 
