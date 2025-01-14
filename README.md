@@ -6,7 +6,7 @@
 
 - 💻 I’m currently exploring **MLOps along with DSA in Java**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1SbZedKQ-Wm8y_cftFyuD_aGev-GB1w_z/view?usp=sharing) (Latest updated on December 31)
+- 📄 [My Resume](https://drive.google.com/file/d/1i6THGdqmlhE8IHpYRc_Xqxwjw5uJB2Wz/view?usp=sharing) (Latest updated on January 5)
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
