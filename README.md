@@ -45,17 +45,6 @@
 
 ---
 
-### 🏆 Achievements
-
-| Date | Achievement | Event |
-|------|------------------------------|------------------------------|
-| December 2024 | **Finalist** | Smart India Hackathon 2024 |
-| October 2024 | **Runner Up (ML Trading Track)** | brAInwave hackathon 2024 (DTU) |
-| July 2024 | **Best Community Impact Project** | Projectathon (Intra Society Hackathon by Thapar ACM) |
-| April 2024 | **Best 1st Year Hack** | HackOwasp 6.0 |
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Armaan457&show_icons=true&theme=radical" width="48%" />
