@@ -24,7 +24,7 @@
 
 #### 🧠 Artificial Intelligence & Machine Learning
 - **Frameworks**: PyTorch, TensorFlow, Scikit-learn, Huggingface, LangChain, LangGraph and CrewAI
-- **Core Domains**: Classical Machine Learning, Natural Language Processing (NLP), Computer Vision, Retrieval Augmented Generation (RAG), Multimodal AI, Multi Agent Systems and Time Series Forecasting
+- **Core Domains**: Classical Machine Learning, Natural Language Processing (NLP), Computer Vision, Generative Models, Retrieval Augmented Generation (RAG), Multimodal AI, Multi Agent Systems and Time Series Forecasting
 
 #### 🖥️ Web Development
 - **Backend**: Django, FastAPI and Flask
@@ -40,8 +40,8 @@
 
 | Duration | Role | Organization | 
 |----------|------|--------------|
-| August 2024 – December 2024 | **AI/ML Development Intern** | Deradh | 
-| June 2024 – July 2024 | **Summer Intern** | ELC, Thapar University |
+| August 2024 – December 2024 | **AI/ML Development Intern** | [Deradh](https://deradh.com) | 
+| June 2024 – July 2024 | **ELC Summer Intern** | [Thapar University](https://www.thapar.edu/academics/centers/experiential-learning-centre1) |
 ---
 
 ### 📈 GitHub Stats
