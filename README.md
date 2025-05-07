@@ -2,7 +2,7 @@
 <h3 align="center">An avid learner who's always excited to learn new things.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/armaan-jagirdar/" target="_blank">
+  <a href="https://www.linkedin.com/in/armaan-jagirdar-183b47285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Armaan%20Jagirdar-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:armaanjagirdar05@gmail.com">
