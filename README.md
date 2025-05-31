@@ -16,7 +16,7 @@
 ---
 
 ### 🤖 Interests
-- 🌱 Exploring **Multimodal AI**, **MLOps** and **DSA in Java**
+- 🌱 Exploring **Multimodal AI** and **MLOps**
 - 🔍 Passionate about **Machine Learning**, **Deep Learning** and **Generative AI**
 ---
 
@@ -27,21 +27,14 @@
 - **Core Domains**: Classical Machine Learning, Natural Language Processing (NLP), Computer Vision, Generative Models, Retrieval Augmented Generation (RAG), Multimodal AI, Multi Agent Systems and Time Series Forecasting
 
 #### 🖥️ Web Development
+- **Frontend**: React, Tailwind CSS and Framer Motion
 - **Backend**: Django, FastAPI and Flask
 - **Databases**: SQLite, Oracle and MongoDB
 
 #### 🌐 Deployment and MLOps
-- **Platforms**: Streamlit and HuggingFace
+- **Platforms**: Streamlit, HuggingFace and Vercel
 - **Tools**: MLFlow and DVC
   
----
-
-### 💼 Work Experience
-
-| Duration | Role | Organization | 
-|----------|------|--------------|
-| August 2024 – December 2024 | **AI/ML Development Intern** | [Deradh](https://deradh.com) | 
-| June 2024 – July 2024 | **ELC Summer Intern** | [Thapar University](https://www.thapar.edu/academics/centers/experiential-learning-centre1) |
 ---
 
 ### 📈 GitHub Stats
