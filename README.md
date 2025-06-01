@@ -17,7 +17,7 @@
 
 ### 🤖 Interests
 - 🌱 Exploring **Multimodal AI** and **MLOps**
-- 🔍 Passionate about **Machine Learning**, **Deep Learning** and **Generative AI**
+- 🔍 Passionate about **Machine Learning**, **Deep Learning** and **Agentic AI**
 ---
 
 ### 💼 Technical Skills
