@@ -32,8 +32,8 @@
 - **Databases**: SQLite, Oracle and MongoDB
 
 #### 🌐 Deployment and MLOps
-- **Platforms**: Streamlit, HuggingFace and Vercel
-- **Tools**: MLFlow and DVC
+- **Platforms**: Streamlit, HuggingFace, Railway, GCP and Vercel
+- **Tools**: MLFlow, DVC and Docker
   
 ---
 
