@@ -24,7 +24,7 @@
 
 #### 🧠 Artificial Intelligence & Machine Learning
 - **Frameworks**: PyTorch, TensorFlow, Scikit-learn, Huggingface, LangChain, LangGraph and CrewAI
-- **Core Domains**: Classical Machine Learning, Natural Language Processing (NLP), Computer Vision, Generative Models, Retrieval Augmented Generation (RAG), Multimodal AI, Multi Agent Systems and Time Series Forecasting
+- **Core Domains**: Classical Machine Learning (Regression, Classification, Clustering, Ensemble Methods), Natural Language Processing, Computer Vision, Generative Models (LLMs, GANs, Diffusion), Retrieval Augmented Generation, Multimodal AI, Multi-Agent Systems, and Time Series Forecasting
 
 #### 🖥️ Web Development
 - **Frontend**: React, Tailwind CSS and Framer Motion
