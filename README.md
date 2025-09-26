@@ -18,7 +18,7 @@
 ### 👋 About Me
 - Exploring **Multimodal AI** pipelines and applications  
 - Learning and 'Experimenting' with **MLOps** for smooth, scalable AI deployments  
-- Unraveling the **math behind these ML & DL algorithms** (and occasionally pretending I understand it 🧐)
+- Unraveling the **math behind these ML & DL algorithms** (and occasionally pretending I fully get it 🧐)
 
 ---
 
@@ -67,8 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Armaan457&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armaan457&layout=compact&theme=radical" width="48%" />
 </p>
-
----
-
-
-
