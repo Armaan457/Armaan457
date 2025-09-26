@@ -32,7 +32,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%23FFFFFF?style=for-the-badge&logo=LangChain&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23FFFFFF?style=for-the-badge&logo=LangGraph&logoColor=black)
 ![CrewAI](https://img.shields.io/badge/CrewAI-%2320232a?style=for-the-badge&logo=CrewAI&logoColor=#FF5A50)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23007ACC?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-%2300BFFF?style=for-the-badge&logo=mediapipe&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-%23FF69B4?style=for-the-badge&logo=ultralytics&logoColor=#111F68)
 
