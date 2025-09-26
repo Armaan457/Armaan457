@@ -18,7 +18,7 @@
 ### 👋 About Me
 - Exploring **Multimodal AI** pipelines and applications  
 - Learning and 'Experimenting' with **MLOps** for smooth, scalable AI deployments  
-- Unraveling the magic behind various ML & DL algorithms (then realising it’s basically just fancy math 🧐)
+- Unraveling the magic behind various ML & DL algorithms (then realising it’s just fancy math 🧐)
 
 ---
 
