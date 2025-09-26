@@ -28,7 +28,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%2331678F?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9900?style=for-the-badge&logo=HuggingFace&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23CC9900?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23FFFFFF?style=for-the-badge&logo=LangChain&logoColor=black)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%23FFFFFF?style=for-the-badge&logo=LangGraph&logoColor=black)
 ![CrewAI](https://img.shields.io/badge/CrewAI-%2320232a?style=for-the-badge&logo=CrewAI&logoColor=#FF5A50)
