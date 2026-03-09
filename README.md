@@ -8,7 +8,7 @@
   <a href="mailto:armaanjagirdar05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Say_Hi-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://drive.google.com/file/d/1-wYDIVrBgd3cLujMHLjAMDliEVdN_0r6/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1y-_cdcT_9J_eDoDnAW4RVQ7ZZUjxpqOE/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
