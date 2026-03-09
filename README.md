@@ -16,7 +16,7 @@
 ---
 
 ### 👋 About Me
-- Exploring **NLP and Vision** pipelines and applications  
+- Exploring **LLMs, Computer Vision, and Multimodal AI systems** and their applications  
 - Learning and 'Experimenting' with **MLOps** for smooth, scalable AI deployments  
 - Unraveling the magic behind various ML & DL algorithms & architectures (then realising it’s just fancy math 🧐)
 
