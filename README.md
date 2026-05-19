@@ -55,9 +55,9 @@
 
 #### Deployment & MLOps:
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23007ACC?style=for-the-badge&logo=docker&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-%23000000?style=for-the-badge&logo=mlflow&logoColor=#0194E2)
 ![DVC](https://img.shields.io/badge/DVC-%23FFFFFF?style=for-the-badge&logo=dvc&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-%23F05032?style=for-the-badge&logo=googlecloud&logoColor=white)
-
