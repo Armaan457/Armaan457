@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/armaan-jagirdar-183b47285/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:armaanjagirdar05@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://armaanjagirdar.me"><img src="https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1y-_cdcT_9J_eDoDnAW4RVQ7ZZUjxpqOE/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-00c9ff?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/1JRTdSj7r85ZnuEZ3SK8ektUtelhncb_k/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-00c9ff?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 <br/>
 
